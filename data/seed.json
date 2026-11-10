@@ -4,5 +4,8 @@
   { "id": 3, "title": "Oberfläche gestalten", "category": "Frontend", "note": "Eigene Farben in style.css festlegen.", "done": false, "createdAt": "2026-10-19T08:10:00.000Z" },
   { "id": 4, "title": "Daten dauerhaft speichern", "category": "Datenbank", "note": "SQLite statt Arbeitsspeicher.", "done": false, "createdAt": "2026-10-19T08:15:00.000Z" },
   { "id": 5, "title": "Als Container starten", "category": "Deployment", "note": "docker compose up", "done": false, "createdAt": "2026-10-19T08:20:00.000Z" },
-  { "id": 6, "title": "Per iframe einbetten", "category": "Deployment", "note": "Statischer Build in eine HTML-Seite einbinden.", "done": false, "createdAt": "2026-10-19T08:25:00.000Z" }
+  { "id": 6, "title": "Per iframe einbetten", "category": "Deployment", "note": "Statischer Build in eine HTML-Seite einbinden.", "done": false, "createdAt": "2026-10-19T08:25:00.000Z" },
+  { "id": 7, "title": "Sicherheitskonzept Wiener Derby analysieren", "category": "Prävention", "note": "Einsatz von Fan-Trennung, Sektorsperren und Deeskalationsteams der Polizei prüfen.", "done": false, "createdAt": "2026-10-19T08:30:00.000Z" },
+  { "id": 8, "title": "Pyrotechnik und Stadionverbote erfassen", "category": "Recht", "note": "Gesetzliche Maßnahmen der Bundesliga und Hausverbote bei Risikospielen dokumentieren.", "done": true, "createdAt": "2026-10-19T08:35:00.000Z" },
+  { "id": 9, "title": "Fanarbeit und Dialoginitiativen evaluieren", "category": "Sozialarbeit", "note": "Präventionsprojekte und Fanbeauftragte zur Gewaltreduktion in österreichischen Stadien untersuchen.", "done": false, "createdAt": "2026-10-19T08:40:00.000Z" }
 ]
