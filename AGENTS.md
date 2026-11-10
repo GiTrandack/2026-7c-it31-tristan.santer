@@ -23,3 +23,4 @@ Dieses Projekt ist eine Schul-Fullstack-App (BRG Kepler Graz, 7. Klasse). Die Da
 5. Niemals Schlüssel, Passwörter oder `.env` einchecken. Neue Variablen kommen in `.env.example`.
 6. Ordner `snippets/` sind Referenzlösungen für Schüler:innen – nicht verändern, nicht blind kopieren.
 7. Arbeite auf einem eigenen Branch (`aufgabe-N-...`) und committe in kleinen Schritten.
+8. aufgabe-1-titel: `<title>` in `index.html` auf `aufgabe-1-titel` und `--color-brand` in `src/client/style.css` auf `#0ea5e9` geändert (direkt auf `main`).
